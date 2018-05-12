@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityInFlight">
+
+    <Button
+        android:id="@+id/zamówZWózkaButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="zamów jedzenie"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="71dp" />
+
+    <Button
+        android:id="@+id/zamówCosButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cos"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="187dp" />
+</android.support.constraint.ConstraintLayout>

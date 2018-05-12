@@ -53,6 +53,7 @@
         app:layout_constraintBottom_toTopOf="@+id/inflightButton"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed"
         app:srcCompat="@drawable/logoray" />
 
 </android.support.constraint.ConstraintLayout>
