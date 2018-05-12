@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "135000835754",
+    "firebase_url": "https://inflight-fd86f.firebaseio.com",
+    "project_id": "inflight-fd86f",
+    "storage_bucket": "inflight-fd86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135000835754:android:f2975eb0f597c313",
+        "android_client_info": {
+          "package_name": "com.hfad.inflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135000835754-jlmn7fqe5jg10t1m1oheq6hudfci9g2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.inflight",
+            "certificate_hash": "4497e948f50a0024d89aab0311d3bc4577b0e2e7"
+          }
+        },
+        {
+          "client_id": "135000835754-f5k6oiusr1b5lti4vs626p6sd563pkla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxi2XDwgxvxOK0Zj3CJi-UhecmmcrZYso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135000835754-f5k6oiusr1b5lti4vs626p6sd563pkla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
