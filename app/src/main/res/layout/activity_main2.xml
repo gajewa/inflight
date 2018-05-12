@@ -10,15 +10,19 @@
         android:id="@+id/zamowUberaButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="79dp"
         android:text="zamowUbera"
-        tools:layout_editor_absoluteX="48dp"
-        tools:layout_editor_absoluteY="79dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/zamowITaxiButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="52dp"
         android:text="zamowITaxi"
-        tools:layout_editor_absoluteX="48dp"
-        tools:layout_editor_absoluteY="179dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zamowUberaButton" />
 </android.support.constraint.ConstraintLayout>
