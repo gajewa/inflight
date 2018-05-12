@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">inflight</string>
+    <string name="button3"><b>Hello</b></string>
 </resources>
